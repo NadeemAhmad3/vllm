@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/NadeemAhmad3"><img src="https://img.shields.io/badge/Author-Nadeem%20Ahmad-blue?style=for-the-badge&logo=github" alt="Author"></a>
   <a href="mailto:engrnadeem26@gmail.com"><img src="https://img.shields.io/badge/Email-engrnadeem26%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://github.com/NadeemAhmad3/AI-Engineering-Lab"><img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge" alt="Status"></a>
+  <a href="https://github.com/NadeemAhmad3/vllm"><img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge" alt="Status"></a>
 </div>
 
 <hr>
@@ -148,7 +148,7 @@ curl http://localhost:8000/v1/chat/completions \
 * **Author**: **Nadeem Ahmad**
 * **GitHub**: [@NadeemAhmad3](https://github.com/NadeemAhmad3)
 * **Email**: [engrnadeem26@gmail.com](mailto:engrnadeem26@gmail.com)
-* **Repository**: [https://github.com/NadeemAhmad3/AI-Engineering-Lab](https://github.com/NadeemAhmad3/AI-Engineering-Lab)
+* **Repository**: [https://github.com/NadeemAhmad3/vllm](https://github.com/NadeemAhmad3/vllm)
 
 ---
 
